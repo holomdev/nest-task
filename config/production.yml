@@ -1,2 +1,5 @@
+server:
+  origin: http://miorigin.com
+
 db:
   synchronize: false
